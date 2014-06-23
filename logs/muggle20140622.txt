@@ -1,1 +1,481 @@
 Sat Jun 21 2014 20:56:54 GMT-0400 (EDT)  muggle restarting his server.
+Sat Jun 21 2014 21:39:11 GMT-0400 (EDT)  New connection "KHXR6NBygFS93Bm3E296"
+Sat Jun 21 2014 21:39:11 GMT-0400 (EDT)  hello mwen1
+Sat Jun 21 2014 21:39:11 GMT-0400 (EDT)  waiting mwen1
+Sat Jun 21 2014 21:39:16 GMT-0400 (EDT)  New connection "Ln782GLDxqkgADSXE297"
+Sat Jun 21 2014 21:39:16 GMT-0400 (EDT)  hello mwen2
+Sat Jun 21 2014 21:39:16 GMT-0400 (EDT)  Creating conversation 20140622013916200-mwen1-mwen2-0.4.3
+Sat Jun 21 2014 21:39:23 GMT-0400 (EDT)  Updating convid 20140622013916200-mwen1-mwen2-0.4.3 to length 1
+Sat Jun 21 2014 21:39:24 GMT-0400 (EDT)  Simsimi: who are you ==> why ?
+Sat Jun 21 2014 21:39:37 GMT-0400 (EDT)  mwen2 disconnected
+Sat Jun 21 2014 21:39:40 GMT-0400 (EDT)  mwen1 disconnected
+Sat Jun 21 2014 21:41:23 GMT-0400 (EDT)  muggle restarting his server.
+Sat Jun 21 2014 21:41:43 GMT-0400 (EDT)  New connection "_9cDkiUs3XXVANDhPClR"
+Sat Jun 21 2014 21:41:43 GMT-0400 (EDT)  hello mwen
+Sat Jun 21 2014 21:41:43 GMT-0400 (EDT)  waiting mwen
+Sat Jun 21 2014 21:41:48 GMT-0400 (EDT)  New connection "-LHLRyYau34k-rehPClS"
+Sat Jun 21 2014 21:41:48 GMT-0400 (EDT)  hello 1
+Sat Jun 21 2014 21:41:48 GMT-0400 (EDT)  Creating conversation 20140622014148415-mwen-1-0.4.3
+Sat Jun 21 2014 21:41:57 GMT-0400 (EDT)  Updating convid 20140622014148415-mwen-1-0.4.3 to length 1
+Sat Jun 21 2014 21:41:58 GMT-0400 (EDT)  Simsimi: who are you ==> I'm Singapore President
+Sat Jun 21 2014 21:43:16 GMT-0400 (EDT)  1 disconnected
+Sat Jun 21 2014 21:43:18 GMT-0400 (EDT)  mwen disconnected
+Sat Jun 21 2014 21:43:32 GMT-0400 (EDT)  New connection "Y-g_Fr-dtWY9mZAtPClT"
+Sat Jun 21 2014 21:43:32 GMT-0400 (EDT)  hello 12
+Sat Jun 21 2014 21:43:32 GMT-0400 (EDT)  waiting 12
+Sat Jun 21 2014 21:43:35 GMT-0400 (EDT)  New connection "F3iiNmB2AIVwmrWUPClU"
+Sat Jun 21 2014 21:43:35 GMT-0400 (EDT)  hello 22
+Sat Jun 21 2014 21:43:35 GMT-0400 (EDT)  Creating conversation 20140622014335646-12-22-0.4.3
+Sat Jun 21 2014 21:43:43 GMT-0400 (EDT)  Updating convid 20140622014335646-12-22-0.4.3 to length 1
+Sat Jun 21 2014 21:43:43 GMT-0400 (EDT)  Simsimi: hello ==> herro
+Sat Jun 21 2014 22:05:03 GMT-0400 (EDT)  12 disconnected
+Sat Jun 21 2014 22:05:05 GMT-0400 (EDT)  22 disconnected
+Sat Jun 21 2014 22:05:16 GMT-0400 (EDT)  New connection "3LgdKRKVk49Il9vzPClV"
+Sat Jun 21 2014 22:05:17 GMT-0400 (EDT)  hello mwen1
+Sat Jun 21 2014 22:05:17 GMT-0400 (EDT)  waiting mwen1
+Sat Jun 21 2014 22:05:22 GMT-0400 (EDT)  New connection "4xSoC3Ewz7wvkBT4PClW"
+Sat Jun 21 2014 22:05:23 GMT-0400 (EDT)  hello mwen2
+Sat Jun 21 2014 22:05:23 GMT-0400 (EDT)  Creating conversation 20140622020523140-mwen1-mwen2-0.4.3
+Sat Jun 21 2014 22:05:32 GMT-0400 (EDT)  Updating convid 20140622020523140-mwen1-mwen2-0.4.3 to length 1
+Sat Jun 21 2014 22:06:05 GMT-0400 (EDT)  mwen1 disconnected
+Sat Jun 21 2014 22:06:07 GMT-0400 (EDT)  mwen2 disconnected
+Sat Jun 21 2014 22:08:10 GMT-0400 (EDT)  New connection "B8JKb-oj3tWxUrA4PClX"
+Sat Jun 21 2014 22:08:10 GMT-0400 (EDT)  hello mwen2
+Sat Jun 21 2014 22:08:10 GMT-0400 (EDT)  waiting mwen2
+Sat Jun 21 2014 22:08:17 GMT-0400 (EDT)  New connection "rgCRbVyD4szKj5HIPClY"
+Sat Jun 21 2014 22:08:17 GMT-0400 (EDT)  hello mwen1
+Sat Jun 21 2014 22:08:17 GMT-0400 (EDT)  Creating conversation 20140622020817569-mwen2-mwen1-0.4.3
+Sat Jun 21 2014 22:08:23 GMT-0400 (EDT)  Updating convid 20140622020817569-mwen2-mwen1-0.4.3 to length 1
+Sat Jun 21 2014 22:08:23 GMT-0400 (EDT)  Using cached Simsimi: hello ==> herro
+Sat Jun 21 2014 22:09:24 GMT-0400 (EDT)  Updating convid 20140622020817569-mwen2-mwen1-0.4.3 to length 2
+Sat Jun 21 2014 22:09:24 GMT-0400 (EDT)  Simsimi: bump ==> BUMP
+Sat Jun 21 2014 22:11:21 GMT-0400 (EDT)  mwen1 disconnected
+Sat Jun 21 2014 22:11:22 GMT-0400 (EDT)  mwen2 disconnected
+Sat Jun 21 2014 22:11:34 GMT-0400 (EDT)  New connection "i78He12qD_Qucy8ePClZ"
+Sat Jun 21 2014 22:11:34 GMT-0400 (EDT)  hello mwen1
+Sat Jun 21 2014 22:11:34 GMT-0400 (EDT)  waiting mwen1
+Sat Jun 21 2014 22:11:37 GMT-0400 (EDT)  New connection "HhNXbIsMxZSOJskpPCla"
+Sat Jun 21 2014 22:11:37 GMT-0400 (EDT)  hello 1
+Sat Jun 21 2014 22:11:37 GMT-0400 (EDT)  Creating conversation 20140622021137282-mwen1-1-0.4.3
+Sat Jun 21 2014 22:11:41 GMT-0400 (EDT)  Updating convid 20140622021137282-mwen1-1-0.4.3 to length 1
+Sat Jun 21 2014 22:11:52 GMT-0400 (EDT)  Updating convid 20140622021137282-mwen1-1-0.4.3 to length 2
+Sat Jun 21 2014 22:13:00 GMT-0400 (EDT)  mwen1 disconnected
+Sat Jun 21 2014 22:13:01 GMT-0400 (EDT)  1 disconnected
+Sat Jun 21 2014 22:13:17 GMT-0400 (EDT)  New connection "4iktQRCFUJu0pQZIPClb"
+Sat Jun 21 2014 22:13:17 GMT-0400 (EDT)  hello a
+Sat Jun 21 2014 22:13:17 GMT-0400 (EDT)  waiting a
+Sat Jun 21 2014 22:13:22 GMT-0400 (EDT)  New connection "ZRkuhguY359kI_jzPClc"
+Sat Jun 21 2014 22:13:22 GMT-0400 (EDT)  hello b
+Sat Jun 21 2014 22:13:22 GMT-0400 (EDT)  Creating conversation 20140622021322742-a-b-0.4.3
+Sat Jun 21 2014 22:13:31 GMT-0400 (EDT)  Updating convid 20140622021322742-a-b-0.4.3 to length 1
+Sat Jun 21 2014 22:13:38 GMT-0400 (EDT)  Updating convid 20140622021322742-a-b-0.4.3 to length 2
+Sat Jun 21 2014 22:15:12 GMT-0400 (EDT)  a disconnected
+Sat Jun 21 2014 22:15:14 GMT-0400 (EDT)  b disconnected
+Sat Jun 21 2014 22:15:24 GMT-0400 (EDT)  New connection "IQplK1-Lxi0DFpguPCld"
+Sat Jun 21 2014 22:15:24 GMT-0400 (EDT)  hello mwen1
+Sat Jun 21 2014 22:15:24 GMT-0400 (EDT)  waiting mwen1
+Sat Jun 21 2014 22:15:30 GMT-0400 (EDT)  New connection "Sv5Q2Cqy-WP-xWhgPCle"
+Sat Jun 21 2014 22:15:33 GMT-0400 (EDT)  hello 33
+Sat Jun 21 2014 22:15:33 GMT-0400 (EDT)  Creating conversation 20140622021533326-mwen1-33-0.4.3
+Sat Jun 21 2014 22:15:36 GMT-0400 (EDT)  Updating convid 20140622021533326-mwen1-33-0.4.3 to length 1
+Sat Jun 21 2014 22:17:52 GMT-0400 (EDT)  New connection "V8VUKa_ysB8MW2H2PClf"
+Sat Jun 21 2014 22:17:53 GMT-0400 (EDT)  hello miao
+Sat Jun 21 2014 22:17:53 GMT-0400 (EDT)  waiting miao
+Sat Jun 21 2014 22:17:58 GMT-0400 (EDT)  New connection "_0ExfTj-k7gqxCAIPClg"
+Sat Jun 21 2014 22:17:58 GMT-0400 (EDT)  Creating conversation 20140622021758199-miao-mi-0.4.3
+Sat Jun 21 2014 22:17:58 GMT-0400 (EDT)  hello mi
+Sat Jun 21 2014 22:18:06 GMT-0400 (EDT)  Updating convid 20140622021758199-miao-mi-0.4.3 to length 1
+Sat Jun 21 2014 22:41:21 GMT-0400 (EDT)  33 disconnected
+Sat Jun 21 2014 23:02:13 GMT-0400 (EDT)  mwen1 disconnected
+Sun Jun 22 2014 08:27:05 GMT-0400 (EDT)  mi disconnected
+Sun Jun 22 2014 08:27:06 GMT-0400 (EDT)  miao disconnected
+Sun Jun 22 2014 08:38:02 GMT-0400 (EDT)  muggle restarting his server.
+Sun Jun 22 2014 08:40:39 GMT-0400 (EDT)  New connection "cYgnS1J1aQ2fYjQdlVYy"
+Sun Jun 22 2014 08:40:39 GMT-0400 (EDT)  hello a
+Sun Jun 22 2014 08:40:39 GMT-0400 (EDT)  waiting a
+Sun Jun 22 2014 08:40:43 GMT-0400 (EDT)  New connection "X69xJIyqMXeVWpTOlVYz"
+Sun Jun 22 2014 08:40:44 GMT-0400 (EDT)  hello b
+Sun Jun 22 2014 08:40:44 GMT-0400 (EDT)  Creating conversation 20140622124044092-a-b-0.4.3
+Sun Jun 22 2014 08:41:11 GMT-0400 (EDT)  Updating convid 20140622124044092-a-b-0.4.3 to length 1
+Sun Jun 22 2014 09:12:09 GMT-0400 (EDT)  a disconnected
+Sun Jun 22 2014 09:12:10 GMT-0400 (EDT)  b disconnected
+Sun Jun 22 2014 09:12:28 GMT-0400 (EDT)  New connection "D37G0COVlC_vw58QlVY0"
+Sun Jun 22 2014 09:12:28 GMT-0400 (EDT)  hello e
+Sun Jun 22 2014 09:12:28 GMT-0400 (EDT)  waiting e
+Sun Jun 22 2014 09:12:30 GMT-0400 (EDT)  New connection "wxWmVoLlEVVPNK29lVY1"
+Sun Jun 22 2014 09:12:30 GMT-0400 (EDT)  hello d
+Sun Jun 22 2014 09:12:30 GMT-0400 (EDT)  Creating conversation 20140622131230421-e-d-0.4.3
+Sun Jun 22 2014 09:12:37 GMT-0400 (EDT)  Updating convid 20140622131230421-e-d-0.4.3 to length 1
+Sun Jun 22 2014 09:12:51 GMT-0400 (EDT)  d disconnected
+Sun Jun 22 2014 09:20:58 GMT-0400 (EDT)  e disconnected
+Sun Jun 22 2014 09:21:13 GMT-0400 (EDT)  New connection "w-LV0VN5Di26Q5ddlVY2"
+Sun Jun 22 2014 09:21:13 GMT-0400 (EDT)  hello aa
+Sun Jun 22 2014 09:21:13 GMT-0400 (EDT)  waiting aa
+Sun Jun 22 2014 09:21:19 GMT-0400 (EDT)  New connection "YmJ4Mx0oPO1EL2XtlVY3"
+Sun Jun 22 2014 09:21:19 GMT-0400 (EDT)  hello bb
+Sun Jun 22 2014 09:21:19 GMT-0400 (EDT)  Creating conversation 20140622132119234-aa-bb-0.4.3
+Sun Jun 22 2014 09:21:24 GMT-0400 (EDT)  Updating convid 20140622132119234-aa-bb-0.4.3 to length 1
+Sun Jun 22 2014 09:54:18 GMT-0400 (EDT)  aa disconnected
+Sun Jun 22 2014 09:54:20 GMT-0400 (EDT)  bb disconnected
+Sun Jun 22 2014 09:54:58 GMT-0400 (EDT)  New connection "sr_c59WDvaezBy1tlVY4"
+Sun Jun 22 2014 09:54:58 GMT-0400 (EDT)  hello 1
+Sun Jun 22 2014 09:54:58 GMT-0400 (EDT)  waiting 1
+Sun Jun 22 2014 09:55:04 GMT-0400 (EDT)  New connection "UerZQaaqu0FApUKQlVY5"
+Sun Jun 22 2014 09:55:04 GMT-0400 (EDT)  hello 3
+Sun Jun 22 2014 09:55:04 GMT-0400 (EDT)  Creating conversation 2014062213554145-1-3-0.4.3
+Sun Jun 22 2014 09:55:08 GMT-0400 (EDT)  Updating convid 2014062213554145-1-3-0.4.3 to length 1
+Sun Jun 22 2014 09:59:43 GMT-0400 (EDT)  3 disconnected
+Sun Jun 22 2014 09:59:50 GMT-0400 (EDT)  1 disconnected
+Sun Jun 22 2014 10:00:02 GMT-0400 (EDT)  New connection "h3RBr4YPxEa5NIhqlVY6"
+Sun Jun 22 2014 10:00:02 GMT-0400 (EDT)  hello 5
+Sun Jun 22 2014 10:00:02 GMT-0400 (EDT)  waiting 5
+Sun Jun 22 2014 10:00:05 GMT-0400 (EDT)  New connection "ZJjHkT6nPQ2mqtcJlVY7"
+Sun Jun 22 2014 10:00:05 GMT-0400 (EDT)  hello 6
+Sun Jun 22 2014 10:00:05 GMT-0400 (EDT)  Creating conversation 2014062214005512-5-6-0.4.3
+Sun Jun 22 2014 10:00:55 GMT-0400 (EDT)  5 disconnected
+Sun Jun 22 2014 10:01:01 GMT-0400 (EDT)  6 disconnected
+Sun Jun 22 2014 10:01:10 GMT-0400 (EDT)  New connection "w1RqEH4x3uilNXbWlVY8"
+Sun Jun 22 2014 10:01:10 GMT-0400 (EDT)  hello 7
+Sun Jun 22 2014 10:01:10 GMT-0400 (EDT)  waiting 7
+Sun Jun 22 2014 10:01:14 GMT-0400 (EDT)  New connection "wNYXU95pxOSmkgh4lVY9"
+Sun Jun 22 2014 10:01:14 GMT-0400 (EDT)  hello 8
+Sun Jun 22 2014 10:01:14 GMT-0400 (EDT)  Creating conversation 20140622140114633-7-8-0.4.3
+Sun Jun 22 2014 10:01:19 GMT-0400 (EDT)  Updating convid 20140622140114633-7-8-0.4.3 to length 1
+Sun Jun 22 2014 10:01:26 GMT-0400 (EDT)  8 disconnected
+Sun Jun 22 2014 10:02:40 GMT-0400 (EDT)  7 disconnected
+Sun Jun 22 2014 10:02:46 GMT-0400 (EDT)  New connection "pPMc7pqmOIve-jTIlVY-"
+Sun Jun 22 2014 10:02:46 GMT-0400 (EDT)  hello 8
+Sun Jun 22 2014 10:02:46 GMT-0400 (EDT)  waiting 8
+Sun Jun 22 2014 10:02:49 GMT-0400 (EDT)  New connection "g7ZaNM85BXMaD6B1lVY_"
+Sun Jun 22 2014 10:02:50 GMT-0400 (EDT)  hello 5
+Sun Jun 22 2014 10:02:50 GMT-0400 (EDT)  Creating conversation 20140622140250101-8-5-0.4.3
+Sun Jun 22 2014 10:02:54 GMT-0400 (EDT)  Updating convid 20140622140250101-8-5-0.4.3 to length 1
+Sun Jun 22 2014 10:42:51 GMT-0400 (EDT)  8 disconnected
+Sun Jun 22 2014 10:42:53 GMT-0400 (EDT)  5 disconnected
+Sun Jun 22 2014 10:43:24 GMT-0400 (EDT)  New connection "lsHk1xFeCGTAvRl9lVZA"
+Sun Jun 22 2014 10:43:24 GMT-0400 (EDT)  hello t
+Sun Jun 22 2014 10:43:24 GMT-0400 (EDT)  waiting t
+Sun Jun 22 2014 10:43:28 GMT-0400 (EDT)  New connection "imWsgAusEr7jaXuwlVZB"
+Sun Jun 22 2014 10:43:29 GMT-0400 (EDT)  hello y
+Sun Jun 22 2014 10:43:29 GMT-0400 (EDT)  Creating conversation 20140622144329027-t-y-0.4.3
+Sun Jun 22 2014 10:43:33 GMT-0400 (EDT)  Updating convid 20140622144329027-t-y-0.4.3 to length 1
+Sun Jun 22 2014 10:43:46 GMT-0400 (EDT)  Updating convid 20140622144329027-t-y-0.4.3 to length 2
+Sun Jun 22 2014 10:44:34 GMT-0400 (EDT)  t disconnected
+Sun Jun 22 2014 10:44:35 GMT-0400 (EDT)  y disconnected
+Sun Jun 22 2014 10:44:45 GMT-0400 (EDT)  New connection "zEHK8gJCudfM1akBlVZC"
+Sun Jun 22 2014 10:44:45 GMT-0400 (EDT)  hello m
+Sun Jun 22 2014 10:44:45 GMT-0400 (EDT)  waiting m
+Sun Jun 22 2014 10:44:49 GMT-0400 (EDT)  New connection "c-S7yaOFMGBuoH-llVZD"
+Sun Jun 22 2014 10:44:49 GMT-0400 (EDT)  hello n
+Sun Jun 22 2014 10:44:49 GMT-0400 (EDT)  Creating conversation 20140622144449209-m-n-0.4.3
+Sun Jun 22 2014 10:44:55 GMT-0400 (EDT)  Updating convid 20140622144449209-m-n-0.4.3 to length 1
+Sun Jun 22 2014 10:45:43 GMT-0400 (EDT)  n disconnected
+Sun Jun 22 2014 10:45:48 GMT-0400 (EDT)  m disconnected
+Sun Jun 22 2014 10:45:57 GMT-0400 (EDT)  New connection "rPDeJ0RcJv3kQslHlVZE"
+Sun Jun 22 2014 10:45:57 GMT-0400 (EDT)  hello ff
+Sun Jun 22 2014 10:45:57 GMT-0400 (EDT)  waiting ff
+Sun Jun 22 2014 10:46:00 GMT-0400 (EDT)  New connection "xbuZnY_j-m7_j9tvlVZF"
+Sun Jun 22 2014 10:46:00 GMT-0400 (EDT)  hello dd
+Sun Jun 22 2014 10:46:00 GMT-0400 (EDT)  Creating conversation 2014062214460904-ff-dd-0.4.3
+Sun Jun 22 2014 10:46:06 GMT-0400 (EDT)  Updating convid 2014062214460904-ff-dd-0.4.3 to length 1
+Sun Jun 22 2014 10:47:10 GMT-0400 (EDT)  dd disconnected
+Sun Jun 22 2014 10:47:14 GMT-0400 (EDT)  ff disconnected
+Sun Jun 22 2014 10:47:24 GMT-0400 (EDT)  New connection "Uu7_1PfR9Q06YW_BlVZG"
+Sun Jun 22 2014 10:47:24 GMT-0400 (EDT)  waiting gg
+Sun Jun 22 2014 10:47:24 GMT-0400 (EDT)  hello gg
+Sun Jun 22 2014 10:47:29 GMT-0400 (EDT)  New connection "od2diMtCam789vH3lVZH"
+Sun Jun 22 2014 10:47:29 GMT-0400 (EDT)  hello hh
+Sun Jun 22 2014 10:47:29 GMT-0400 (EDT)  Creating conversation 20140622144729231-gg-hh-0.4.3
+Sun Jun 22 2014 10:47:34 GMT-0400 (EDT)  Updating convid 20140622144729231-gg-hh-0.4.3 to length 1
+Sun Jun 22 2014 10:48:51 GMT-0400 (EDT)  hh disconnected
+Sun Jun 22 2014 10:48:55 GMT-0400 (EDT)  gg disconnected
+Sun Jun 22 2014 10:49:04 GMT-0400 (EDT)  New connection "CwwibV5sxOv0wPOalVZI"
+Sun Jun 22 2014 10:49:04 GMT-0400 (EDT)  hello gg
+Sun Jun 22 2014 10:49:04 GMT-0400 (EDT)  waiting gg
+Sun Jun 22 2014 10:49:07 GMT-0400 (EDT)  New connection "69c-EOiExxn0D1tQlVZJ"
+Sun Jun 22 2014 10:49:07 GMT-0400 (EDT)  hello hh
+Sun Jun 22 2014 10:49:07 GMT-0400 (EDT)  Creating conversation 2014062214497379-gg-hh-0.4.3
+Sun Jun 22 2014 10:49:11 GMT-0400 (EDT)  Updating convid 2014062214497379-gg-hh-0.4.3 to length 1
+Sun Jun 22 2014 10:50:20 GMT-0400 (EDT)  hh disconnected
+Sun Jun 22 2014 10:50:26 GMT-0400 (EDT)  gg disconnected
+Sun Jun 22 2014 10:50:29 GMT-0400 (EDT)  New connection "zpEf_ERrrvy_S5AUlVZK"
+Sun Jun 22 2014 10:50:29 GMT-0400 (EDT)  hello 8
+Sun Jun 22 2014 10:50:29 GMT-0400 (EDT)  waiting 8
+Sun Jun 22 2014 10:50:32 GMT-0400 (EDT)  New connection "Xw-9SxJDPx82J31klVZL"
+Sun Jun 22 2014 10:50:32 GMT-0400 (EDT)  hello u
+Sun Jun 22 2014 10:50:32 GMT-0400 (EDT)  Creating conversation 20140622145032919-8-u-0.4.3
+Sun Jun 22 2014 10:50:37 GMT-0400 (EDT)  Updating convid 20140622145032919-8-u-0.4.3 to length 1
+Sun Jun 22 2014 10:56:49 GMT-0400 (EDT)  8 disconnected
+Sun Jun 22 2014 10:56:50 GMT-0400 (EDT)  u disconnected
+Sun Jun 22 2014 10:57:01 GMT-0400 (EDT)  New connection "rUMN35lQokoYqHOzlVZM"
+Sun Jun 22 2014 10:57:01 GMT-0400 (EDT)  hello 8
+Sun Jun 22 2014 10:57:01 GMT-0400 (EDT)  waiting 8
+Sun Jun 22 2014 10:57:04 GMT-0400 (EDT)  New connection "m4A_CRPOOdcm6i0llVZN"
+Sun Jun 22 2014 10:57:04 GMT-0400 (EDT)  hello t
+Sun Jun 22 2014 10:57:04 GMT-0400 (EDT)  Creating conversation 2014062214574759-8-t-0.4.3
+Sun Jun 22 2014 10:57:10 GMT-0400 (EDT)  Updating convid 2014062214574759-8-t-0.4.3 to length 1
+Sun Jun 22 2014 11:04:55 GMT-0400 (EDT)  t disconnected
+Sun Jun 22 2014 11:04:56 GMT-0400 (EDT)  8 disconnected
+Sun Jun 22 2014 11:05:02 GMT-0400 (EDT)  New connection "YphIqT9KMdBuUAuTlVZO"
+Sun Jun 22 2014 11:05:02 GMT-0400 (EDT)  hello hh
+Sun Jun 22 2014 11:05:02 GMT-0400 (EDT)  waiting hh
+Sun Jun 22 2014 11:05:07 GMT-0400 (EDT)  New connection "7AszGJatfJTiH0KAlVZP"
+Sun Jun 22 2014 11:05:08 GMT-0400 (EDT)  hello 8
+Sun Jun 22 2014 11:05:08 GMT-0400 (EDT)  Creating conversation 2014062215058072-hh-8-0.4.3
+Sun Jun 22 2014 11:05:15 GMT-0400 (EDT)  Updating convid 2014062215058072-hh-8-0.4.3 to length 1
+Sun Jun 22 2014 11:06:58 GMT-0400 (EDT)  hh disconnected
+Sun Jun 22 2014 11:06:59 GMT-0400 (EDT)  8 disconnected
+Sun Jun 22 2014 11:07:02 GMT-0400 (EDT)  New connection "nLKL3XezDAAhb2kLlVZQ"
+Sun Jun 22 2014 11:07:02 GMT-0400 (EDT)  hello 8
+Sun Jun 22 2014 11:07:02 GMT-0400 (EDT)  waiting 8
+Sun Jun 22 2014 11:07:05 GMT-0400 (EDT)  New connection "mkCt0xdLA2QmCl9QlVZR"
+Sun Jun 22 2014 11:07:05 GMT-0400 (EDT)  hello hh
+Sun Jun 22 2014 11:07:05 GMT-0400 (EDT)  Creating conversation 2014062215075655-8-hh-0.4.3
+Sun Jun 22 2014 11:07:10 GMT-0400 (EDT)  Updating convid 2014062215075655-8-hh-0.4.3 to length 1
+Sun Jun 22 2014 11:08:25 GMT-0400 (EDT)  8 disconnected
+Sun Jun 22 2014 11:08:26 GMT-0400 (EDT)  hh disconnected
+Sun Jun 22 2014 11:08:33 GMT-0400 (EDT)  New connection "iiT3u4l5b78rpKQelVZS"
+Sun Jun 22 2014 11:08:33 GMT-0400 (EDT)  hello 8
+Sun Jun 22 2014 11:08:33 GMT-0400 (EDT)  waiting 8
+Sun Jun 22 2014 11:08:36 GMT-0400 (EDT)  New connection "FlYfQVYm-bZxjQ75lVZT"
+Sun Jun 22 2014 11:08:37 GMT-0400 (EDT)  hello gg
+Sun Jun 22 2014 11:08:37 GMT-0400 (EDT)  Creating conversation 20140622150837102-8-gg-0.4.3
+Sun Jun 22 2014 11:08:40 GMT-0400 (EDT)  Updating convid 20140622150837102-8-gg-0.4.3 to length 1
+Sun Jun 22 2014 11:18:21 GMT-0400 (EDT)  8 disconnected
+Sun Jun 22 2014 11:18:22 GMT-0400 (EDT)  gg disconnected
+Sun Jun 22 2014 11:18:25 GMT-0400 (EDT)  New connection "StKrubvdphnKCLX0lVZU"
+Sun Jun 22 2014 11:18:25 GMT-0400 (EDT)  hello hh
+Sun Jun 22 2014 11:18:25 GMT-0400 (EDT)  waiting hh
+Sun Jun 22 2014 11:18:28 GMT-0400 (EDT)  New connection "H2UgAFJ4STtsELCZlVZV"
+Sun Jun 22 2014 11:18:28 GMT-0400 (EDT)  hello t
+Sun Jun 22 2014 11:18:28 GMT-0400 (EDT)  Creating conversation 20140622151828340-hh-t-0.4.3
+Sun Jun 22 2014 11:18:32 GMT-0400 (EDT)  Updating convid 20140622151828340-hh-t-0.4.3 to length 1
+Sun Jun 22 2014 11:21:44 GMT-0400 (EDT)  hh disconnected
+Sun Jun 22 2014 11:21:45 GMT-0400 (EDT)  t disconnected
+Sun Jun 22 2014 11:21:48 GMT-0400 (EDT)  New connection "pF-juRTi_vXXRWGtlVZW"
+Sun Jun 22 2014 11:21:48 GMT-0400 (EDT)  hello t
+Sun Jun 22 2014 11:21:48 GMT-0400 (EDT)  waiting t
+Sun Jun 22 2014 11:21:51 GMT-0400 (EDT)  New connection "DBvDL_9y1R7-baatlVZX"
+Sun Jun 22 2014 11:21:51 GMT-0400 (EDT)  hello 5
+Sun Jun 22 2014 11:21:51 GMT-0400 (EDT)  Creating conversation 20140622152151863-t-5-0.4.3
+Sun Jun 22 2014 11:21:56 GMT-0400 (EDT)  Updating convid 20140622152151863-t-5-0.4.3 to length 1
+Sun Jun 22 2014 11:23:18 GMT-0400 (EDT)  t disconnected
+Sun Jun 22 2014 11:23:19 GMT-0400 (EDT)  5 disconnected
+Sun Jun 22 2014 11:23:22 GMT-0400 (EDT)  New connection "0qoAR7IM2CaoluvKlVZY"
+Sun Jun 22 2014 11:23:22 GMT-0400 (EDT)  hello hh
+Sun Jun 22 2014 11:23:22 GMT-0400 (EDT)  waiting hh
+Sun Jun 22 2014 11:23:26 GMT-0400 (EDT)  New connection "q5yCgy1epkNnvfyLlVZZ"
+Sun Jun 22 2014 11:23:26 GMT-0400 (EDT)  hello t
+Sun Jun 22 2014 11:23:26 GMT-0400 (EDT)  Creating conversation 20140622152326367-hh-t-0.4.3
+Sun Jun 22 2014 11:23:30 GMT-0400 (EDT)  Updating convid 20140622152326367-hh-t-0.4.3 to length 1
+Sun Jun 22 2014 11:23:59 GMT-0400 (EDT)  hh disconnected
+Sun Jun 22 2014 11:24:00 GMT-0400 (EDT)  t disconnected
+Sun Jun 22 2014 11:24:04 GMT-0400 (EDT)  New connection "pewDtmbs36p4oHMulVZa"
+Sun Jun 22 2014 11:24:04 GMT-0400 (EDT)  hello hh
+Sun Jun 22 2014 11:24:04 GMT-0400 (EDT)  waiting hh
+Sun Jun 22 2014 11:24:07 GMT-0400 (EDT)  New connection "oIWKSZdYnB1mTBmllVZb"
+Sun Jun 22 2014 11:24:07 GMT-0400 (EDT)  hello 5
+Sun Jun 22 2014 11:24:07 GMT-0400 (EDT)  Creating conversation 2014062215247543-hh-5-0.4.3
+Sun Jun 22 2014 11:24:11 GMT-0400 (EDT)  Updating convid 2014062215247543-hh-5-0.4.3 to length 1
+Sun Jun 22 2014 11:27:49 GMT-0400 (EDT)  hh disconnected
+Sun Jun 22 2014 11:27:50 GMT-0400 (EDT)  5 disconnected
+Sun Jun 22 2014 11:27:52 GMT-0400 (EDT)  New connection "5P17EAi5OpQpmjB0lVZc"
+Sun Jun 22 2014 11:27:52 GMT-0400 (EDT)  hello hh
+Sun Jun 22 2014 11:27:52 GMT-0400 (EDT)  waiting hh
+Sun Jun 22 2014 11:27:56 GMT-0400 (EDT)  New connection "aWwIfenio888Y_bSlVZd"
+Sun Jun 22 2014 11:27:56 GMT-0400 (EDT)  hello 5
+Sun Jun 22 2014 11:27:56 GMT-0400 (EDT)  Creating conversation 20140622152756279-hh-5-0.4.3
+Sun Jun 22 2014 11:28:00 GMT-0400 (EDT)  Updating convid 20140622152756279-hh-5-0.4.3 to length 1
+Sun Jun 22 2014 11:29:32 GMT-0400 (EDT)  hh disconnected
+Sun Jun 22 2014 11:29:33 GMT-0400 (EDT)  5 disconnected
+Sun Jun 22 2014 11:29:36 GMT-0400 (EDT)  New connection "u06wMlFddqyV-BAhlVZe"
+Sun Jun 22 2014 11:29:36 GMT-0400 (EDT)  hello 8
+Sun Jun 22 2014 11:29:36 GMT-0400 (EDT)  waiting 8
+Sun Jun 22 2014 11:29:40 GMT-0400 (EDT)  New connection "M_MXYo0BcBYrLNFjlVZf"
+Sun Jun 22 2014 11:29:40 GMT-0400 (EDT)  hello t
+Sun Jun 22 2014 11:29:40 GMT-0400 (EDT)  Creating conversation 20140622152940873-8-t-0.4.3
+Sun Jun 22 2014 11:29:45 GMT-0400 (EDT)  Updating convid 20140622152940873-8-t-0.4.3 to length 1
+Sun Jun 22 2014 11:29:58 GMT-0400 (EDT)  Updating convid 20140622152940873-8-t-0.4.3 to length 2
+Sun Jun 22 2014 11:41:32 GMT-0400 (EDT)  8 disconnected
+Sun Jun 22 2014 11:41:32 GMT-0400 (EDT)  t disconnected
+Sun Jun 22 2014 11:41:35 GMT-0400 (EDT)  New connection "qkI8TAZkjaXRJqPylVZg"
+Sun Jun 22 2014 11:41:35 GMT-0400 (EDT)  hello 8
+Sun Jun 22 2014 11:41:35 GMT-0400 (EDT)  waiting 8
+Sun Jun 22 2014 11:41:38 GMT-0400 (EDT)  New connection "HbfOBYURaYqJWl8rlVZh"
+Sun Jun 22 2014 11:41:38 GMT-0400 (EDT)  hello t
+Sun Jun 22 2014 11:41:38 GMT-0400 (EDT)  Creating conversation 20140622154138892-8-t-0.4.3
+Sun Jun 22 2014 11:41:42 GMT-0400 (EDT)  Updating convid 20140622154138892-8-t-0.4.3 to length 1
+Sun Jun 22 2014 12:00:58 GMT-0400 (EDT)  8 disconnected
+Sun Jun 22 2014 12:00:59 GMT-0400 (EDT)  t disconnected
+Sun Jun 22 2014 12:01:04 GMT-0400 (EDT)  New connection "GZH4bVWcRpg_tCl1lVZi"
+Sun Jun 22 2014 12:01:04 GMT-0400 (EDT)  hello hh
+Sun Jun 22 2014 12:01:04 GMT-0400 (EDT)  waiting hh
+Sun Jun 22 2014 12:01:08 GMT-0400 (EDT)  New connection "9c0_Jzz8LZdrSCqDlVZj"
+Sun Jun 22 2014 12:01:08 GMT-0400 (EDT)  hello 5
+Sun Jun 22 2014 12:01:08 GMT-0400 (EDT)  Creating conversation 2014062216018562-hh-5-0.4.3
+Sun Jun 22 2014 12:01:15 GMT-0400 (EDT)  hh disconnected
+Sun Jun 22 2014 12:01:16 GMT-0400 (EDT)  5 disconnected
+Sun Jun 22 2014 12:01:28 GMT-0400 (EDT)  New connection "IyEEopN6boZpZLIelVZk"
+Sun Jun 22 2014 12:01:28 GMT-0400 (EDT)  hello 8
+Sun Jun 22 2014 12:01:28 GMT-0400 (EDT)  waiting 8
+Sun Jun 22 2014 12:01:33 GMT-0400 (EDT)  New connection "9n_6yWJAKsrgbxKWlVZl"
+Sun Jun 22 2014 12:01:33 GMT-0400 (EDT)  hello 5
+Sun Jun 22 2014 12:01:33 GMT-0400 (EDT)  Creating conversation 20140622160133844-8-5-0.4.3
+Sun Jun 22 2014 12:03:30 GMT-0400 (EDT)  8 disconnected
+Sun Jun 22 2014 12:03:31 GMT-0400 (EDT)  5 disconnected
+Sun Jun 22 2014 12:03:34 GMT-0400 (EDT)  New connection "tL3-q6HqBELLHYZflVZm"
+Sun Jun 22 2014 12:03:34 GMT-0400 (EDT)  hello hh
+Sun Jun 22 2014 12:03:34 GMT-0400 (EDT)  waiting hh
+Sun Jun 22 2014 12:03:37 GMT-0400 (EDT)  New connection "3w4d2emlapGY9XFNlVZn"
+Sun Jun 22 2014 12:03:37 GMT-0400 (EDT)  hello t
+Sun Jun 22 2014 12:03:37 GMT-0400 (EDT)  Creating conversation 20140622160337351-hh-t-0.4.3
+Sun Jun 22 2014 12:30:30 GMT-0400 (EDT)  hh disconnected
+Sun Jun 22 2014 12:30:31 GMT-0400 (EDT)  t disconnected
+Sun Jun 22 2014 12:30:57 GMT-0400 (EDT)  New connection "2DxnRnu5c5Zhnc7TlVZo"
+Sun Jun 22 2014 12:30:57 GMT-0400 (EDT)  hello oo
+Sun Jun 22 2014 12:30:57 GMT-0400 (EDT)  waiting oo
+Sun Jun 22 2014 12:31:01 GMT-0400 (EDT)  New connection "Vn-7E4Kbq3Xo-SFAlVZp"
+Sun Jun 22 2014 12:31:01 GMT-0400 (EDT)  hello xx
+Sun Jun 22 2014 12:31:01 GMT-0400 (EDT)  Creating conversation 2014062216311833-oo-xx-0.4.3
+Sun Jun 22 2014 12:31:22 GMT-0400 (EDT)  xx disconnected
+Sun Jun 22 2014 12:31:23 GMT-0400 (EDT)  oo disconnected
+Sun Jun 22 2014 12:31:27 GMT-0400 (EDT)  New connection "gk6nbYHWr9SYgKZDlVZq"
+Sun Jun 22 2014 12:31:27 GMT-0400 (EDT)  hello 8
+Sun Jun 22 2014 12:31:27 GMT-0400 (EDT)  waiting 8
+Sun Jun 22 2014 12:31:30 GMT-0400 (EDT)  New connection "DFhj7xYx4eM4hO3JlVZr"
+Sun Jun 22 2014 12:31:31 GMT-0400 (EDT)  hello hh
+Sun Jun 22 2014 12:31:31 GMT-0400 (EDT)  Creating conversation 20140622163131157-8-hh-0.4.3
+Sun Jun 22 2014 12:32:07 GMT-0400 (EDT)  8 disconnected
+Sun Jun 22 2014 12:32:07 GMT-0400 (EDT)  hh disconnected
+Sun Jun 22 2014 12:32:10 GMT-0400 (EDT)  New connection "L_XPR90gu2juQMyXlVZs"
+Sun Jun 22 2014 12:32:10 GMT-0400 (EDT)  hello t
+Sun Jun 22 2014 12:32:10 GMT-0400 (EDT)  waiting t
+Sun Jun 22 2014 12:32:14 GMT-0400 (EDT)  New connection "46qokwbh0q1Q6QHJlVZt"
+Sun Jun 22 2014 12:32:14 GMT-0400 (EDT)  hello 5
+Sun Jun 22 2014 12:32:14 GMT-0400 (EDT)  Creating conversation 20140622163214713-t-5-0.4.3
+Sun Jun 22 2014 12:32:20 GMT-0400 (EDT)  Updating convid 20140622163214713-t-5-0.4.3 to length 1
+Sun Jun 22 2014 12:33:18 GMT-0400 (EDT)  t disconnected
+Sun Jun 22 2014 12:33:19 GMT-0400 (EDT)  5 disconnected
+Sun Jun 22 2014 12:33:22 GMT-0400 (EDT)  New connection "sIQvEGRywcIS_Q0ClVZu"
+Sun Jun 22 2014 12:33:22 GMT-0400 (EDT)  hello hh
+Sun Jun 22 2014 12:33:22 GMT-0400 (EDT)  waiting hh
+Sun Jun 22 2014 12:33:25 GMT-0400 (EDT)  New connection "FVgb7tdoyEGwQXmSlVZv"
+Sun Jun 22 2014 12:33:25 GMT-0400 (EDT)  Creating conversation 20140622163325296-hh-5-0.4.3
+Sun Jun 22 2014 12:33:25 GMT-0400 (EDT)  hello 5
+Sun Jun 22 2014 12:33:29 GMT-0400 (EDT)  Updating convid 20140622163325296-hh-5-0.4.3 to length 1
+Sun Jun 22 2014 14:19:42 GMT-0400 (EDT)  hh disconnected
+Sun Jun 22 2014 14:19:43 GMT-0400 (EDT)  5 disconnected
+Sun Jun 22 2014 14:19:56 GMT-0400 (EDT)  New connection "AT2_lPoT3gF9m_iKlVZw"
+Sun Jun 22 2014 14:19:56 GMT-0400 (EDT)  hello 8
+Sun Jun 22 2014 14:19:56 GMT-0400 (EDT)  waiting 8
+Sun Jun 22 2014 14:19:59 GMT-0400 (EDT)  New connection "tNF4KVXSfDKE_iTFlVZx"
+Sun Jun 22 2014 14:19:59 GMT-0400 (EDT)  hello 9
+Sun Jun 22 2014 14:19:59 GMT-0400 (EDT)  Creating conversation 20140622181959617-8-9-0.4.3
+Sun Jun 22 2014 14:20:12 GMT-0400 (EDT)  9 disconnected
+Sun Jun 22 2014 14:20:13 GMT-0400 (EDT)  8 disconnected
+Sun Jun 22 2014 14:20:50 GMT-0400 (EDT)  muggle restarting his server.
+Sun Jun 22 2014 14:21:46 GMT-0400 (EDT)  muggle restarting his server.
+Sun Jun 22 2014 14:21:56 GMT-0400 (EDT)  New connection "I-uW22NrmCzPbHhY0Aa3"
+Sun Jun 22 2014 14:21:56 GMT-0400 (EDT)  hello hh
+Sun Jun 22 2014 14:21:56 GMT-0400 (EDT)  waiting hh
+Sun Jun 22 2014 14:21:59 GMT-0400 (EDT)  New connection "s02F2ovf5rfWyZ0e0Aa4"
+Sun Jun 22 2014 14:21:59 GMT-0400 (EDT)  hello 5
+Sun Jun 22 2014 14:21:59 GMT-0400 (EDT)  Creating conversation 20140622182159917-hh-5-0.4.3
+Sun Jun 22 2014 14:22:05 GMT-0400 (EDT)  Updating convid 20140622182159917-hh-5-0.4.3 to length 1
+Sun Jun 22 2014 15:01:45 GMT-0400 (EDT)  Updating convid 20140622182159917-hh-5-0.4.3 to length 2
+Sun Jun 22 2014 15:02:00 GMT-0400 (EDT)  hh disconnected
+Sun Jun 22 2014 15:02:06 GMT-0400 (EDT)  5 disconnected
+Sun Jun 22 2014 17:16:57 GMT-0400 (EDT)  New connection "WGuQm2P1DxpbGGUd0Aa5"
+Sun Jun 22 2014 17:16:58 GMT-0400 (EDT)  hello hh
+Sun Jun 22 2014 17:16:58 GMT-0400 (EDT)  waiting hh
+Sun Jun 22 2014 17:17:01 GMT-0400 (EDT)  New connection "R38TmaqzaGuMxyoQ0Aa6"
+Sun Jun 22 2014 17:17:02 GMT-0400 (EDT)  hello 5
+Sun Jun 22 2014 17:17:02 GMT-0400 (EDT)  Creating conversation 2014062221172032-hh-5-0.4.3
+Sun Jun 22 2014 17:17:08 GMT-0400 (EDT)  Updating convid 2014062221172032-hh-5-0.4.3 to length 1
+Sun Jun 22 2014 17:31:44 GMT-0400 (EDT)  5 disconnected
+Sun Jun 22 2014 17:31:45 GMT-0400 (EDT)  hh disconnected
+Sun Jun 22 2014 17:31:48 GMT-0400 (EDT)  New connection "xAc5sEn_FgxrBHsZ0Aa7"
+Sun Jun 22 2014 17:31:48 GMT-0400 (EDT)  hello 8
+Sun Jun 22 2014 17:31:48 GMT-0400 (EDT)  waiting 8
+Sun Jun 22 2014 17:31:53 GMT-0400 (EDT)  New connection "G7YrTsSpnmuI6mCk0Aa8"
+Sun Jun 22 2014 17:31:53 GMT-0400 (EDT)  hello hh
+Sun Jun 22 2014 17:31:53 GMT-0400 (EDT)  Creating conversation 20140622213153424-8-hh-0.4.3
+Sun Jun 22 2014 17:31:58 GMT-0400 (EDT)  Updating convid 20140622213153424-8-hh-0.4.3 to length 1
+Sun Jun 22 2014 19:02:02 GMT-0400 (EDT)  8 disconnected
+Sun Jun 22 2014 19:02:03 GMT-0400 (EDT)  hh disconnected
+Sun Jun 22 2014 19:02:10 GMT-0400 (EDT)  New connection "RSkk1qN-Cv4jMySi0Aa9"
+Sun Jun 22 2014 19:02:10 GMT-0400 (EDT)  hello hh
+Sun Jun 22 2014 19:02:10 GMT-0400 (EDT)  waiting hh
+Sun Jun 22 2014 19:02:16 GMT-0400 (EDT)  New connection "6EXtdQGpRGJ8dCSf0Aa-"
+Sun Jun 22 2014 19:02:16 GMT-0400 (EDT)  hello gg
+Sun Jun 22 2014 19:02:16 GMT-0400 (EDT)  Creating conversation 20140622230216205-hh-gg-0.4.3
+Sun Jun 22 2014 19:02:21 GMT-0400 (EDT)  Updating convid 20140622230216205-hh-gg-0.4.3 to length 1
+Sun Jun 22 2014 19:02:41 GMT-0400 (EDT)  hh disconnected
+Sun Jun 22 2014 19:02:41 GMT-0400 (EDT)  gg disconnected
+Sun Jun 22 2014 19:02:44 GMT-0400 (EDT)  New connection "q3QFQM1qDFheP0ra0Aa_"
+Sun Jun 22 2014 19:02:44 GMT-0400 (EDT)  hello hh
+Sun Jun 22 2014 19:02:44 GMT-0400 (EDT)  waiting hh
+Sun Jun 22 2014 19:02:48 GMT-0400 (EDT)  New connection "aRiaHo9Hq34i_Dqa0AbA"
+Sun Jun 22 2014 19:02:48 GMT-0400 (EDT)  hello t
+Sun Jun 22 2014 19:02:48 GMT-0400 (EDT)  Creating conversation 20140622230248249-hh-t-0.4.3
+Sun Jun 22 2014 19:02:54 GMT-0400 (EDT)  Updating convid 20140622230248249-hh-t-0.4.3 to length 1
+Sun Jun 22 2014 19:02:54 GMT-0400 (EDT)  Simsimi: bump ==> Boom
+Sun Jun 22 2014 19:03:28 GMT-0400 (EDT)  t disconnected
+Sun Jun 22 2014 19:03:29 GMT-0400 (EDT)  hh disconnected
+Sun Jun 22 2014 19:03:32 GMT-0400 (EDT)  New connection "wzQGTZe16DZe4_Ak0AbB"
+Sun Jun 22 2014 19:03:32 GMT-0400 (EDT)  hello hh
+Sun Jun 22 2014 19:03:32 GMT-0400 (EDT)  waiting hh
+Sun Jun 22 2014 19:03:34 GMT-0400 (EDT)  New connection "ICgvXMK0TIU907AS0AbC"
+Sun Jun 22 2014 19:03:34 GMT-0400 (EDT)  hello gg
+Sun Jun 22 2014 19:03:34 GMT-0400 (EDT)  Creating conversation 20140622230334844-hh-gg-0.4.3
+Sun Jun 22 2014 19:03:38 GMT-0400 (EDT)  Updating convid 20140622230334844-hh-gg-0.4.3 to length 1
+Sun Jun 22 2014 19:03:43 GMT-0400 (EDT)  Using cached Simsimi: bump ==> Boom
+Sun Jun 22 2014 19:13:42 GMT-0400 (EDT)  hh disconnected
+Sun Jun 22 2014 19:13:42 GMT-0400 (EDT)  gg disconnected
+Sun Jun 22 2014 19:13:47 GMT-0400 (EDT)  New connection "T5J9wiDnsm97aG8j0AbD"
+Sun Jun 22 2014 19:13:48 GMT-0400 (EDT)  hello 8
+Sun Jun 22 2014 19:13:48 GMT-0400 (EDT)  waiting 8
+Sun Jun 22 2014 19:13:51 GMT-0400 (EDT)  New connection "tJLC8CXU8BYKhgLM0AbE"
+Sun Jun 22 2014 19:13:52 GMT-0400 (EDT)  hello t
+Sun Jun 22 2014 19:13:52 GMT-0400 (EDT)  Creating conversation 20140622231352122-8-t-0.4.3
+Sun Jun 22 2014 19:13:56 GMT-0400 (EDT)  Updating convid 20140622231352122-8-t-0.4.3 to length 1
+Sun Jun 22 2014 19:17:14 GMT-0400 (EDT)  8 disconnected
+Sun Jun 22 2014 19:17:15 GMT-0400 (EDT)  t disconnected
+Sun Jun 22 2014 19:17:19 GMT-0400 (EDT)  New connection "GXCygBnmnn0jqHE70AbF"
+Sun Jun 22 2014 19:17:19 GMT-0400 (EDT)  waiting 5
+Sun Jun 22 2014 19:17:19 GMT-0400 (EDT)  hello 5
+Sun Jun 22 2014 19:17:24 GMT-0400 (EDT)  New connection "-qMi87VXWgiRDI4G0AbG"
+Sun Jun 22 2014 19:17:24 GMT-0400 (EDT)  hello gg
+Sun Jun 22 2014 19:17:24 GMT-0400 (EDT)  Creating conversation 20140622231724512-5-gg-0.4.3
+Sun Jun 22 2014 19:17:29 GMT-0400 (EDT)  Updating convid 20140622231724512-5-gg-0.4.3 to length 1
+Sun Jun 22 2014 19:17:31 GMT-0400 (EDT)  Using cached Simsimi: bump ==> Boom
+Sun Jun 22 2014 19:17:56 GMT-0400 (EDT)  5 disconnected
+Sun Jun 22 2014 19:17:56 GMT-0400 (EDT)  gg disconnected
+Sun Jun 22 2014 19:18:00 GMT-0400 (EDT)  New connection "LOErFUynYdLoVcyi0AbH"
+Sun Jun 22 2014 19:18:00 GMT-0400 (EDT)  hello 8
+Sun Jun 22 2014 19:18:00 GMT-0400 (EDT)  waiting 8
+Sun Jun 22 2014 19:18:03 GMT-0400 (EDT)  New connection "EjW7YfiA9iOV1Lgb0AbI"
+Sun Jun 22 2014 19:18:04 GMT-0400 (EDT)  hello gg
+Sun Jun 22 2014 19:18:04 GMT-0400 (EDT)  Creating conversation 2014062223184077-8-gg-0.4.3
+Sun Jun 22 2014 19:18:07 GMT-0400 (EDT)  Updating convid 2014062223184077-8-gg-0.4.3 to length 1
+Sun Jun 22 2014 19:18:13 GMT-0400 (EDT)  Using cached Simsimi: bump ==> Boom
+Sun Jun 22 2014 19:24:33 GMT-0400 (EDT)  8 disconnected
+Sun Jun 22 2014 19:24:34 GMT-0400 (EDT)  gg disconnected
+Sun Jun 22 2014 19:24:40 GMT-0400 (EDT)  New connection "Yah9WyioxTSocavO0AbJ"
+Sun Jun 22 2014 19:24:40 GMT-0400 (EDT)  hello hh
+Sun Jun 22 2014 19:24:40 GMT-0400 (EDT)  waiting hh
+Sun Jun 22 2014 19:24:46 GMT-0400 (EDT)  New connection "hEdOiZysHJCfNpIB0AbK"
+Sun Jun 22 2014 19:24:46 GMT-0400 (EDT)  hello gg
+Sun Jun 22 2014 19:24:46 GMT-0400 (EDT)  Creating conversation 20140622232446899-hh-gg-0.4.3
+Sun Jun 22 2014 19:24:53 GMT-0400 (EDT)  Updating convid 20140622232446899-hh-gg-0.4.3 to length 1
+Sun Jun 22 2014 19:24:55 GMT-0400 (EDT)  Using cached Simsimi: bump ==> Boom
+Sun Jun 22 2014 19:25:29 GMT-0400 (EDT)  hh disconnected
+Sun Jun 22 2014 19:25:29 GMT-0400 (EDT)  gg disconnected
+Sun Jun 22 2014 19:25:37 GMT-0400 (EDT)  New connection "r3YLhv7PYC1K7s0j0AbL"
+Sun Jun 22 2014 19:25:38 GMT-0400 (EDT)  hello 5
+Sun Jun 22 2014 19:25:38 GMT-0400 (EDT)  waiting 5
+Sun Jun 22 2014 19:25:43 GMT-0400 (EDT)  New connection "4lYv_KhgFyogFrpg0AbM"
+Sun Jun 22 2014 19:25:43 GMT-0400 (EDT)  Creating conversation 20140622232543757-5-hh-0.4.3
+Sun Jun 22 2014 19:25:43 GMT-0400 (EDT)  hello hh
+Sun Jun 22 2014 19:25:47 GMT-0400 (EDT)  Updating convid 20140622232543757-5-hh-0.4.3 to length 1
+Sun Jun 22 2014 19:26:07 GMT-0400 (EDT)  Using cached Simsimi: bump ==> Boom

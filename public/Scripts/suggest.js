@@ -1,7 +1,6 @@
 // make sure to include CHATS.js, TooSexyNouns.js, AUTOCORRECT.js as well
 //var AUTOCORRECT = require('AUTOCORRECT');
 
-
 function normalize(matches){
     var sumDist = 0.0;
     for (var m in matches)
@@ -74,10 +73,30 @@ var createSuggestionsSimilarity = function (msgs, numSuggestions) {
     }
     return ss;
 }
- 
+
+
+function urban(query) {
+	var cnt = 0;
+	var xmlHttp = null;
+	xmlHttp = new XMLHttpRequest();
+	xmlHttp.open("GET",'http://api.urbandictionary.com/v0/define?term='+encodeURIComponent(query),false);
+	xmlHttp.send(null);
+	var data=JSON.parse(xmlHttp.responseText).tags;
+	alert(data);
+	for(var i=0;i<LIWCSexual.length;i++){
+//		var re = new RegExp("\\b"+LIWCSexual[i]);
+		var re = new RegExp("\\bfuck");
+		if(re.exec(data) != null)
+		{
+			cnt++;
+			alert(re);
+		}
+	}
+	return cnt;
+}
 
 function simsimi(txt) {
-    var res;
+    var res;   
     $.ajax({
         url: "/simsimi.html?text=" + encodeURIComponent(txt),
         type: 'GET',
@@ -92,13 +111,10 @@ function simsimi(txt) {
     return res;
 }
 
-
 var mentionTabooWord = function (lastmsg){
 
-	for(var i=0;i<AUTOCORRECT.length;i++){
+	for(var i=0;i<TooSexyNouns.length;i++){
 		var re = new RegExp("\\b"+TooSexyNouns[i]);
-		
-	//	if(lastmsg.indexOf(TooSexyNouns[i]) > -1)
 		if(re.exec(lastmsg) != null)
 		{
 			return true;
@@ -111,8 +127,10 @@ var createSuggestionsManual = function (msgs) {
     var ss = []; 
     if (msgs.length > 0)
     {
-        var last = msgs[msgs.length - 1].text;       
-	}
+        var last = msgs[msgs.length - 1].text;          
+         var s = urban(last);     
+         alert(s);
+		}
     if (msgs.length == 0)
         ss = ["Hi!", "Why did the chicken cross the road?", "Knock knock!" ];
     else if (last == "Knock knock!")
@@ -136,7 +154,7 @@ var createSuggestionsManual = function (msgs) {
     }
     ss = ss.map(function (s) { return { txt: s, deriv: "manual" }; });
     if (msgs.length > 0 && last) {
-        var s = simsimi(last);
+        var s = simsimi(last);        
         if (s) ss.push({ txt: s, deriv: "simsimi" });
     }
     return ss;

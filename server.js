@@ -80,6 +80,38 @@ function simsimi(str, callback, that) { // get a simsimi result (and cache it) f
     http.get(options, callback2).on("error", function (e) { error("Simsimi server error: " + e.message); });
 }
 
+//http://api.urbandictionary.com/v0/define?term=
+/*function urban(str, callback, that) { // get a urban dictionary result (and cache it) for string, call callback.call(that, result)
+    options = {
+        host: "api.urbandictionary.com",
+        port: 80,
+        method: 'GET',
+        path: '/v0/define?term=' + encodeURIComponent(str)
+    };
+    if (!urban.cache) urban.cache = {};
+    if (str in urban.cache) {
+        log("Using cached urban: " + str + " ==> " + urban.cache[str]);
+        callback.call(that, urban.cache[str]);
+        return;
+    }
+    var callback2 = function (str, callback, that) {
+        return function (resp) {
+            resp.on('data', function (chunk) {
+                try {
+                    chunk = eval("(" + chunk +")");
+                    log("Urban: " + str + " ==> " + chunk.author);
+                    callback.call(that, chunk.author);
+                    urban.cache[str] = chunk.author;
+                } catch(e) {
+                    error("Urban error: " + e);
+                }
+            });
+        }
+    }(str, callback, that);
+    http.get(options, callback2).on("error", function (e) { error("Urban server error: " + e.message); });
+}*/
+
+
 // ---------------------------------------------------------------------------------------------------------
 // Server stuff
 // ---------------------------------------------------------------------------------------------------------
@@ -98,6 +130,11 @@ app.get('/simsimi.html', function (req, res) {
     simsimi(query.text, res.send, res);
 });
 
+/*app.get('/urban.html', function (req, res) {
+    var query = url.parse(req.url, true).query;
+    urban(query.text, res.send, res);
+});
+*/
 
 
 app.get('/god.html', function (req, res) {
